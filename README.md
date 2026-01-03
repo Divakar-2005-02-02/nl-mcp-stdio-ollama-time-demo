@@ -222,7 +222,6 @@ This repository intentionally highlights correct setup to avoid subtle bugs.
 
 ## License
 
-This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
